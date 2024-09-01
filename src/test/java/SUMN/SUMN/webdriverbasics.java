@@ -21,7 +21,8 @@ public class webdriverbasics {
 	 System.out.println("False");
  }
  
- driver.quit();
+ driver.quit(); //quit the browser window
+ 
  
  	//System.out.println(driver.getPageSource());
  
